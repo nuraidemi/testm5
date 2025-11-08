@@ -1,0 +1,47 @@
+.feadback {
+  background-image: url('../../pics/banner.png');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 120px 0;
+}
+
+.feadback-content {
+  position: relative;
+  z-index: 2;
+  margin-left: 120px;
+}
+
+.feadback-content h2 {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.feadback-content .p {
+  font-size: 24px;
+  color: #e0e0e0;
+  margin-bottom: 25px;
+  max-width: 1000px;
+}
+
+.feadback-content input {
+  display: block;
+  width: 25%;
+  margin-bottom: 17px;
+  padding: 15px;
+  border: none;
+  border-radius: 1px;
+  background: #fff;
+}
+
+.feadback-content button {
+  background-color: #cae46e;
+  color: black;
+  border: none;
+  padding: 10px 24px;
+  font-weight: bold;
+  border-radius: 1px;
+}
